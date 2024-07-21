@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-color-generator/static/css/main.f855e6bc.css",
+    "main.js": "/random-color-generator/static/js/main.718635bf.js",
+    "static/js/453.218cd3e6.chunk.js": "/random-color-generator/static/js/453.218cd3e6.chunk.js",
+    "index.html": "/random-color-generator/index.html",
+    "main.f855e6bc.css.map": "/random-color-generator/static/css/main.f855e6bc.css.map",
+    "main.718635bf.js.map": "/random-color-generator/static/js/main.718635bf.js.map",
+    "453.218cd3e6.chunk.js.map": "/random-color-generator/static/js/453.218cd3e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.718635bf.js"
+  ]
+}
